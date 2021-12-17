@@ -5,7 +5,6 @@ const example1 = [
 ];
 
 function getCommonChars(arr) {
-    // Write your code here
     let mainset = null;
     let mainarr = "";
     for (let entry of arr) {
